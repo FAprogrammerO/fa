@@ -1,0 +1,55 @@
+h1 {
+ text-align: center;
+    color: red;
+   font-size: 100px;
+  background-color:#93C572;
+}
+h2 {
+ text-align: center;
+    color: bleu;
+   font-size: 50px;
+   box-shadow: 2px 2px 5px #00FFFF; background-color:#D3D3D3;
+}
+h3 {
+ text-align: center;
+    color: bleu;
+   font-size: 25px;
+  background-color:#93C572;
+}
+footer{
+   text-align: center;
+  padding: 2px;
+   color: red;
+  background-color:#93C572;
+}
+body{
+ box-shadow: 2px 2px 5px #00FFFF; background-color:#D3D3D3;
+  font-family: "chalk", Chalk, monospace;
+}
+#location {
+  font-size: 20px;
+  }
+#general-ffects {
+            font-size: 20px;
+  }
+#algiers{
+            font-size: 20px;
+  }
+#oran{
+            font-size: 20px;
+  }
+#constantine{
+            font-size: 20px;
+  }
+#culture-in-algeria{
+            font-size: 20px;
+  }
+#top-algerian-dishes{
+            font-size: 20px;
+  }
+#algeria-is-a-huge-and-diverse-land{
+            font-size: 20px;
+  }
+#diverse-land{
+            font-size: 20px;
+  }
